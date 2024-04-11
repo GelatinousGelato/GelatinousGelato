@@ -1,9 +1,9 @@
 Good morning, good afternoon, but preferably leave me alone, thank you
 
-- 💬 LANGUAGES
+💬 LANGUAGES
 - Real -- English, Polish
 - Coding -- Python, rLua, learning Java
 
-- 📫 CONTACT
+📫 CONTACT
 - Discord -- gelad
 - eMail -- PawelWG@hotmail.com
